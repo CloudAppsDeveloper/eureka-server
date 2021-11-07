@@ -1,4 +1,4 @@
-package in.ass.esms.api;
+package com.cloudapps.developer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
